@@ -2,26 +2,24 @@ body{
   background: beige;
 }
 
-h1, h3 {
-  text-align: center;
+p{
+  font-size: 24px;
+  margin: 10px;
   padding: 10px;
-  margin-left: 5px;
-}
-
-footer{
-  text-align: center;
 }
 
 footer a{
   margin: 0 10px;
-  padding: 10px;
+  padding: 20px;
   color:blueviolet;
 }
 
 .croissant-photo{
   display: block;
   border-radius: 10px;
-  max-width: 100%;
+  max-width: 90%;
   margin:30px auto;
 }
+
+
 
